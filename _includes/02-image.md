@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Phillip Mwaniki](https://www.robots.nu/img/uploads/2018/05/29/Sony%20Aibo%20robotdog.jpg)
